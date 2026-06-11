@@ -1,2 +1,2 @@
 # Adonas
-MaxMarket -pi Application 
+validation-key.text
